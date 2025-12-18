@@ -1,0 +1,5 @@
+{
+  "name": "基层眩晕筛查助手",
+  "description": "专为基层医生设计的眩晕与平衡障碍辅助筛查工具。包含 Romberg、TUG、Dix-Hallpike、HINTS 检查及 DHI、ABC、ABCD2 等规范化量表与风险评分。",
+  "requestFramePermissions": []
+}
