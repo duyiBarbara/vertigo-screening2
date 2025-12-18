@@ -1,0 +1,6 @@
+name = "vertigo-screening"
+compatibility_date = "2025-12-18"
+
+[site]
+bucket = "./dist"
+
